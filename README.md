@@ -1,3 +1,3 @@
-# patika.dev Kodluyoruz Front-End Egitimi
+# [](patika.dev) Kodluyoruz Front-End Egitimi
 
 HTML Odev 1
